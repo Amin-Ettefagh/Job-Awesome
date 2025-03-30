@@ -86,16 +86,6 @@ I gathered data from several sources while scraping the web for job opportunitie
 
 ---
 
-## Data Display: JobCrawled.csv
-
-Below is the data I've crawled and cleaned. You can view or download the CSV file for further exploration.
-
-```
-[Download JobCrawled.csv](https://github.com/Amin-Ettefagh/Job-Awesome/raw/main/JobCrawled.csv)
-```
-
----
-
 This document will be updated as I find more useful information and sources. Feel free to contribute, share, or use this information as you continue your job search journey.
 
 ---
