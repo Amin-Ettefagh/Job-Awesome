@@ -1,7 +1,7 @@
 
 ---
 
-# Job and Project Search Resources
+# Job and Project 
 
 ## Introduction
 
@@ -57,17 +57,13 @@ For those interested in freelancing or contract-based work, here are some of the
 
 Here are some additional links that could assist you in your job search or project hunting:
 
-- **Amin's Spreadsheet**  
-  [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit?gid=1279011369#gid=1279011369)
+-  [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit?gid=1279011369#gid=1279011369)
 
-- **Amin's GitHub Repository**  
-  [GitHub - Offers](https://github.com/getmanfred/offers/wiki)
+- [GitHub - Offers](https://github.com/getmanfred/offers/wiki)
 
-- **Amin's Awesome Remote Jobs**  
-  [GitHub - Awesome Remote Jobs](https://github.com/letavocado/awesome-remote-jobs?tab=readme-ov-file)
+- [GitHub - Awesome Remote Jobs](https://github.com/letavocado/awesome-remote-jobs?tab=readme-ov-file)
 
-- **Awesome Remote Jobs List**  
-  [GitHub - Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?tab=readme-ov-file#job-boards)
+- [GitHub - Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?tab=readme-ov-file#job-boards)
 
 ---
 
