@@ -91,7 +91,7 @@ I gathered data from several sources while scraping the web for job opportunitie
 Below is the data I've crawled and cleaned. You can view or download the CSV file for further exploration.
 
 ```
-[JobCrawled.csv](https://github.com/Amin-Ettefagh/Job-Awesome/blob/main/JobCrawled.csv)
+[JobCrawled.csv](https://raw.githubusercontent.com/Amin-Ettefagh/Job-Awesome/main/JobCrawled.csv)
 ```
 
 ---
